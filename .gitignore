@@ -161,4 +161,10 @@ cython_debug/
 /DAML_book/_build/.doctree
 /DAML_book/_build/jupyter_execute
 
+# macOS
+.DS_Store
+
+# JB IDEs
+.idea/
+
 *~*.pptx
